@@ -1,42 +1,44 @@
-# Hi there, I'm Sina Shateri 👋
+<h1 align="center">Hi 👋, I'm Sina Shateri</h1>
+<h3 align="center">Software Engineer Student And Front-End Developer</h3>
 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/SinaShateri)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sinashateri)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Sina__Shateri)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/Sina__Shateri/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sinashateri&label=Profile%20views&color=0e75b6&style=flat" alt="sinashateri" /> </p>
 
-<!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](LINK) -->
+## About
+<p>
+  I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as continuing to learn new languages and development techniques are important to me and the success of your organization.
+</p>
+
 <br>
-I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as continuing to learn new languages and development techniques are important to me and the success of your organization.
-<br><br><br>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinashateri" alt="sinashateri" /></a> </p>
 
 <img align="right" alt="" src="img/123.png" width="408" />
 
-### Software Engineer Student And Front-End Developer
+<p align="left"> <a href="https://twitter.com/sina__shateri" target="blank"><img src="https://img.shields.io/twitter/follow/sina__shateri?logo=twitter&style=for-the-badge" alt="sina__shateri" /></a> </p>
 
-- ⏳ I’m currently learning React <img align="center" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-- 🤝 I’m looking to collaborate with other developers
-- 🎯 2022 Goals: Being expert in Front-End developing then Full-Stack Developing
-- 💬 Ask me about anything, I am happy to help
-- 📫 Contact me: Sina_sh_79@yahoo.com
+- 🔭 I’m currently working on [Medic-Care](https://github.com/SinaShateri/medic)
 
-<br><br><br>
+- 🌱 I’m currently learning **React <img align="center" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />**
 
-### My Skills
+- 👯 I’m looking to collaborate with **with other developers**
 
-<img align="left" alt="html" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="css" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://th.bing.com/th/id/R.225fbbe09689a4a3219ae1e00fe2280b?rik=5bqX09pA9xFBlA&pid=ImgRaw&r=0" />
+- 💬 Ask me about **anything, I am happy to help**
 
-<br><br><br>
+- 📫 How to reach me **Sina_sh_79@yahoo.com**
 
-📈 **My GitHub Stats:**
-
-<p>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SinaShateri&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=swift " />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinaShateri&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=swift "/>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sina__shateri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sina__shateri" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sinashateri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sinashateri" height="30" width="40" /></a>
+<a href="https://instagram.com/sina__shateri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sina__shateri" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sinashateri&show_icons=true&locale=en&layout=compact" alt="sinashateri" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinashateri&show_icons=true&locale=en" alt="sinashateri" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sinashateri&" alt="sinashateri" /></p>
