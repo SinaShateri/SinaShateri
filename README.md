@@ -12,7 +12,7 @@ I enjoy being challenged and engaging with projects that require me to work outs
 
 <img align="right" alt="" src="img/123.png" width="408" />
 
-### I'm Software Engineer Student And Front-End Developer
+### Software Engineer Student And Front-End Developer
 
 - ⏳ I’m currently learning React <img align="center" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 - 🤝 I’m looking to collaborate with other developers
