@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sina Shateri</h1>
-<h3 align="center">Software Engineer Student And Front-End Developer</h3>
+<h2 align="center">Software Engineer Student And Front-End Developer</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinashateri&label=Profile%20views&color=0e75b6&style=flat" alt="sinashateri" /> </p>
 
-## About
+<h1>About</h1>
 
-<h5>
+<p style="font-size: 1.2rem;">
   I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as continuing to learn new languages and development techniques are important to me and the success of your organization.
-</h5>
+</p>
 
 <br>
 
