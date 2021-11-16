@@ -30,3 +30,13 @@ I enjoy being challenged and engaging with projects that require me to work outs
 <img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://th.bing.com/th/id/R.225fbbe09689a4a3219ae1e00fe2280b?rik=5bqX09pA9xFBlA&pid=ImgRaw&r=0" />
+
+<br><br><br>
+
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SinaShateri&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=swift " />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinaShateri&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=swift "/>
+
+</p>
