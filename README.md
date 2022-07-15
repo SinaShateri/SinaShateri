@@ -15,9 +15,9 @@
 
 <p align="left"> <a href="https://twitter.com/sina__shateri" target="blank"><img src="https://img.shields.io/twitter/follow/sina__shateri?logo=twitter&style=for-the-badge" alt="sina__shateri" /></a> </p>
 
-- 🔭 I’m currently working on [Medic-Care](https://github.com/SinaShateri/medic)
+- 🔭 I’m currently working on private MERN stack project!
 
-- 🌱 I’m currently learning **React <img align="center" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate with **with other developers**
 
