@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on private MERN stack project!
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Typescript**
 
 - 👯 I’m looking to collaborate with **with other developers**
 
