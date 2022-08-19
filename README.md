@@ -15,9 +15,9 @@
 
 <p align="left"> <a href="https://twitter.com/sina__shateri" target="blank"><img src="https://img.shields.io/twitter/follow/sina__shateri?logo=twitter&style=for-the-badge" alt="sina__shateri" /></a> </p>
 
-- 🔭 I’m currently working on private MERN stack project!
+- 🔭 I’m currently working on my shop project using Next.js!
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Every Thing**
 
 - 👯 I’m looking to collaborate with **with other developers**
 
