@@ -112,9 +112,8 @@ I've worked with international teams across Canada, the UK, and remote-first env
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn
-- 💻 GitHub
-- 📧 SinaShateri@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/sinashateri/
+- 📧 Email: SinaShateri@gmail.com
 
 ---
 
